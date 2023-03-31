@@ -1,0 +1,2 @@
+import{A as t}from"./index.972012d6.js";import"./index.f7c8cd19.js";import"./iframe.f257e2b1.js";import"./index.d2f07c12.js";import"./jsx-runtime.ca339bb5.js";const n={title:"Data display/Avatar",component:t,args:{src:"https://github.com/AntonioSabino.png",alt:"Antonio Sabino"}},m={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{m as Primary,p as WithFallback,c as __namedExportsOrder,n as default};
+//# sourceMappingURL=Avatar.stories.d15e7470.js.map
